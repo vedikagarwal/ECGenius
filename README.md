@@ -1,5 +1,12 @@
 # ECGenius
 
+This project was done at Georgia Tech along with four other teammates:
+
+1) Mayank Yadav
+2) Sparsh Gupta
+3) Jeevan Reji
+4) Aditya Kumar
+
 ## Steps to run
 
 1. Run `./setup_env.sh`
